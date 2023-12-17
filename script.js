@@ -1,3 +1,5 @@
+// Hello, Welcome to my code
+
 // Define HTML elements
 const board = document.getElementById("game-board");
 // Will go through the html document and find that id. Document comes under DOM(Document Object Model) api automatically included in browsers
